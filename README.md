@@ -29,5 +29,7 @@ Arquitecturas de una red neuronal artificial simple
 ###
 
 Video: https://youtu.be/w71ptgJ6Eqs
-Codigo: 
+
+Codigo: https://colab.research.google.com/drive/1jBClHeKMpkt6wRFkcd7Uix3qVSV5nWOW?usp=sharing
+
 Repositorio: https://github.com/Gabriel2152675/AI_Proyect

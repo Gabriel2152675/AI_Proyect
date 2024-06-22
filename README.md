@@ -1,5 +1,5 @@
 # AI_Proyect
 
-banner.jpg
+![image](banner.jpg)
 
 ## Integrantes
